@@ -1,0 +1,17 @@
+remote_theme: coursweb/jk-theme
+title: Découpe et gravure laser
+description: Un cours sur la découpe et gravure laser
+lang: fr-FR
+chapters:
+ - title: Cours-web
+   url: https://cours-web.ch/
+ - title: 3D Printing
+   url: https://cours-web.ch/3d-print/
+ - title: Laser
+   url: https://cours-web.ch/laser/
+   
+# Content is split in three columns.   
+footer_col_1: <ul class="contact-list">
+  <li>Eracom, Lausanne</li>
+  <li>2026</li></ul>
+footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/coursweb/laser">Lien Github</a></li></ul>
