@@ -57,7 +57,7 @@ Dimensions du plateau : 900 x 600 mm
 
 Couleurs pour découpe Fablearn:
 
-- **Découpe** -> <span style=color:#f00;>Rouge</span> (RVB)
+- **Découpe** -> <span style="color:#f00;">Rouge</span> (RVB)
 - **Gravure vectorielle** -> <b style=color:#00f;>Bleu</b> (RVB) 
 - **Gravure de trame** -> **Noir** (RVB)
 
