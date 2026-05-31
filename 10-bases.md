@@ -16,7 +16,7 @@ Spécialité: Papier/carton, séries
 Laser de 30W, plateau de 860 × 610 mm.  
 Découpe laser: épaisseur maximum 3mm  
 Gravure laser: épaisseur 6 à 10 mm  
-Format planche: 80x60 cm
+Format planche maximum: 80x60 cm
 
 Instructions: [voir PDF](https://eracom.ch/extranet/wp/wp-content/documents/CentreProduction/05-CProd-Fiche_Technique-DCE_Decoupe_Laser-01_2026.pdf).
 
@@ -25,8 +25,8 @@ Instructions: [voir PDF](https://eracom.ch/extranet/wp/wp-content/documents/Cent
 Lors de la réalisation du fichier : utiliser les 3 couleurs existantes dans le nuancier original d’Adobe Illustrator soit :
 
 - **Coupe** -> **Noir**
-- **Rainage demi-corps** -> <span style=color:#f00;>Rouge</span> CMJN
-- **Gravure en surface** -> <span style=color:#f0f;>Magenta</span> CMJN
+- **Rainage demi-corps** -> <span style="color:red">Rouge</span> CMJN
+- **Gravure en surface** -> <span style="color:#f0f">Magenta</span> CMJN
 
 L’épaisseur donnée au contour doit être de : 0,01 mm
 
@@ -57,8 +57,8 @@ Dimensions du plateau : 900 x 600 mm
 
 Couleurs pour découpe Fablearn:
 
-- **Découpe** -> <span style="color:#f00;">Rouge</span> (RVB)
-- **Gravure vectorielle** -> <span style=color:#00f;>Bleu</span> (RVB) 
+- **Découpe** -> <span style="color:red">Rouge</span> (RVB)
+- **Gravure vectorielle** -> <span style="color:blue">Bleu</span> (RVB) 
 - **Gravure de trame** -> **Noir** (RVB)
 
 ![](images/infos-decoupe-laser-fablearn.png)
