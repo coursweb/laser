@@ -25,8 +25,8 @@ Instructions: [voir PDF](https://eracom.ch/extranet/wp/wp-content/documents/Cent
 Lors de la réalisation du fichier : utiliser les 3 couleurs existantes dans le nuancier original d’Adobe Illustrator soit :
 
 - **Coupe** -> **Noir**
-- **Rainage demi-corps** -> <b style=color:#f00;>Rouge</b> CMJN
-- **Gravure en surface** -> <b style=color:#f0f;>Magenta</b> CMJN
+- **Rainage demi-corps** -> <span style=color:#f00;>Rouge</span> CMJN
+- **Gravure en surface** -> <span style=color:#f0f;>Magenta</span> CMJN
 
 L’épaisseur donnée au contour doit être de : 0,01 mm
 
@@ -58,7 +58,7 @@ Dimensions du plateau : 900 x 600 mm
 Couleurs pour découpe Fablearn:
 
 - **Découpe** -> <span style="color:#f00;">Rouge</span> (RVB)
-- **Gravure vectorielle** -> <b style=color:#00f;>Bleu</b> (RVB) 
+- **Gravure vectorielle** -> <span style=color:#00f;>Bleu</span> (RVB) 
 - **Gravure de trame** -> **Noir** (RVB)
 
 ![](images/infos-decoupe-laser-fablearn.png)
