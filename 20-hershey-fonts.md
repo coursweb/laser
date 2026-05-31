@@ -43,12 +43,18 @@ Windell H. Oskay a également ajouté dans cette extension une série de Stroke 
 
 ### Code
 
+#### Hershey Text for Inkscape
+
 [Hershey Text for Inkscape sur Gitlab](https://gitlab.com/oskay/hershey-text), par Windell H. Oskay, Evil Mad Scientist Laboratories (EMSL).
+
+#### Hershey Text JS
 
 [Hershey Text JS](https://github.com/techninja/hersheytextjs) par techninja (James Todd). "A port of the EMSL Hershey engraving font data from the Hershey Text Inkscape Plugin to JSON, capable of being rendered quickly via JavaScript & SVG".  
 [Site web démo](https://techninja.github.io/hersheytextjs/).
 
-[Hershey Noailles](http://hershey-noailles.luuse.io/www/) par le collectif de graphisme Luuse pour la Villa Noailles (2017) - "We forked hersheytextjs and made it a program that defines strokes in css, then exports it as a font".  Une autre fonte dérivée des Hershey Fonts est [Hershey-ArkDes](https://luuse.io/projects/arkdes-hershey/) (2024). Ces fontes sont pensées pour une utilisation en print, ce ne sont pas des "stroke fonts".
+#### Versions TTF / OTF par Luuse
+
+[Hershey Noailles](http://hershey-noailles.luuse.io/www/) par le collectif de graphisme Luuse pour la Villa Noailles (2017) - "We forked hersheytextjs and made it a program that defines strokes in css, then exports it as a font".  Une autre fonte dérivée des Hershey Fonts est [Hershey-ArkDes](https://luuse.io/projects/arkdes-hershey/) (2024). Ces fontes sont pensées pour une utilisation en print, ce ne sont pas des "stroke fonts", mais des fontes TrueType ou OpenType. Dossiers de téléchargement: [Hershey Noailles](https://gitlab.com/Luuse/foundry/fonts.luuse/-/tree/main/fonts/Hershey-Noailles?ref_type=heads), [Hershey-ArkDes](https://gitlab.com/Luuse/foundry/hershey-ad).
 
 ## Ressources
 
@@ -63,6 +69,10 @@ En 2015, Frank Grießhammer, type designer travaillant chez Adobe, a fait une re
 **[The Hershey Fonts with Frank Griesshammer](https://vimeo.com/178015110)**, présentation vidéo donnée en 2016, sur ses recherches concernant les Hershey Fonts.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/178015110?h=18610a851b" width="100%" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+
+---
+
+### Travaux de A. V. Hershey
 
 *[Calligraphy for Computers](https://archive.org/details/hershey-calligraphy_for_computers)*, ouvrage de A. V. Hershey publié en 1967, sur Archive.org
 
