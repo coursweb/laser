@@ -24,9 +24,9 @@ Instructions: [voir PDF](https://eracom.ch/extranet/wp/wp-content/documents/Cent
 
 Lors de la réalisation du fichier : utiliser les 3 couleurs existantes dans le nuancier original d’Adobe Illustrator soit :
 
-- **Coupe** -> Noir
-- **Rainage demi-corps** -> Rouge CMJN
-- **Gravure en surface** -> Magenta CMJN
+- **Coupe** -> **Noir**
+- **Rainage demi-corps** -> <b style=color:#f00;>Rouge</b> CMJN
+- **Gravure en surface** -> <b style=color:#f0f;>Magenta</b> CMJN
 
 L’épaisseur donnée au contour doit être de : 0,01 mm
 
@@ -57,18 +57,18 @@ Dimensions du plateau : 900 x 600 mm
 
 Couleurs pour découpe Fablearn:
 
-- **Découpe** -> Rouge (RVB)
-- **Gravure vectorielle** -> Bleu (RVB) 
-- **Gravure de trame** -> Noir (RVB)
+- **Découpe** -> <b style=color:#f00;>Rouge</b> (RVB)
+- **Gravure vectorielle** -> <b style=color:#00f;>Bleu</b> (RVB) 
+- **Gravure de trame** -> **Noir** (RVB)
 
 ![](images/infos-decoupe-laser-fablearn.png)
 
 ## Quelle machine pour quel usage ?
 
 * Si votre usage est la gravure/découpe bois et matériaux variés, la **Trotec Speedy 100R** est bien plus adaptée. 
-* Le Digicut est davantage taillé pour la finition d'imprimés en série.
+* Le **Digicut** est davantage taillé pour la finition d'imprimés en série.
 
 ## Type de bois recommandé
 
-Contreplaqué peuplier 600 x 600 x 4mm [chez Jumbo.ch](https://www.jumbo.ch/fr/construction-renovation/bois/bois-de-construction-bois-profile/planches/contreplaque-peuplier-600-x-600-x-4mm/p/6231570?tt=X1NFUF9mMzZhZGFkYjcxNDRmZjg3NTRhOWFiYzM5ZDk1Yjg1Y19QT1NfMQ==#modal).  
+**Contreplaqué peuplier** 600 x 600 x 4mm [chez Jumbo.ch](https://www.jumbo.ch/fr/construction-renovation/bois/bois-de-construction-bois-profile/planches/contreplaque-peuplier-600-x-600-x-4mm/p/6231570?tt=X1NFUF9mMzZhZGFkYjcxNDRmZjg3NTRhOWFiYzM5ZDk1Yjg1Y19QT1NfMQ==#modal).  
 Prix par planche: CHF 6.95
