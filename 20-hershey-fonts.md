@@ -48,7 +48,7 @@ Windell H. Oskay a également ajouté dans cette extension une série de Stroke 
 [Hershey Text JS](https://github.com/techninja/hersheytextjs) par techninja (James Todd). "A port of the EMSL Hershey engraving font data from the Hershey Text Inkscape Plugin to JSON, capable of being rendered quickly via JavaScript & SVG".  
 [Site web démo](https://techninja.github.io/hersheytextjs/).
 
-[Hershey Noailles](http://hershey-noailles.luuse.io/www/) par le collectif de graphisme Luuse pour la Villa Noailles (2017) - "We forked hersheytextjs and made it a program that defines strokes in css, then exports it as a font".  Une autre fonte dérivée des Hershey Fonts est [Hershey-ArkDes](https://luuse.io/projects/arkdes-hershey/) (2024).
+[Hershey Noailles](http://hershey-noailles.luuse.io/www/) par le collectif de graphisme Luuse pour la Villa Noailles (2017) - "We forked hersheytextjs and made it a program that defines strokes in css, then exports it as a font".  Une autre fonte dérivée des Hershey Fonts est [Hershey-ArkDes](https://luuse.io/projects/arkdes-hershey/) (2024). Ces fontes sont pensées pour une utilisation en print, ce ne sont pas des "stroke fonts".
 
 ## Ressources
 
