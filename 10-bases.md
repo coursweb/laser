@@ -30,6 +30,8 @@ Lors de la réalisation du fichier : utiliser les 3 couleurs existantes dans le 
 
 L’épaisseur donnée au contour doit être de : 0,01 mm
 
+![la Polar Digicut](images/digicut-eracom.avif)
+
 ---
 
 ## Au FabLearn HEP
