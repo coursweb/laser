@@ -22,20 +22,24 @@ Pour que le fichier SVG soit bien lu par la machine Trotec, voici des conseils d
 
 ✅ Exemple correct: cet élément n'a pas de *Fill*, seulement un *Stroke* (rouge).
 
-![](images/fill-stroke-1.png)
+![](images/fill-stroke-2.png)
 
 
 ### Défaire groupes et objets
 
-#### Défaire les groupes
+**Défaire les groupes**
 
 Pour cela, on peut *tout sélectionner* (cmd-A), et faire *Object > Ungroup*. Répéter si nécessaire, jusqu'à ce qu'il ne reste plus de groupes. 
 
-#### Transformer les **objets géométriques** tels que cercles ou rectangles, en tracés (Paths). Faire *Path > Object to Path*.
+**Convertir les objets en tracés (*Paths*)**
 
-Pour sélectionner tous les objets d'un même type (tels que les cercles), faire *Edit > Select Same > Object Type*.
+Les **objets géométriques**, tels que les cercles ou rectangles, doivent être convertis en tracés (*Paths*).
 
-**Astuce:** le bas du canevas contient un message indiquant si les éléments sélectionnés comportent des groupes. 
+Pour cela, faire *Path > Object to Path*.
+
+**Astuce 1:** pour sélectionner tous les objets d'un même type (tels que les cercles), faire *Edit > Select Same > Object Type*.
+
+**Astuce 2:** le bas du canevas contient un message indiquant si les éléments sélectionnés comportent des groupes. 
 
 ❌ Dans cet exemple, il y a un problème car la sélection comporte des *Groupes* et *Cercles*. On aimerait n'avoir que des *Paths*.
 
