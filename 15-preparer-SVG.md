@@ -6,9 +6,9 @@ permalink: preparer-SVG.html
 
 ## Préparation des fichiers SVG pour Trotec
 
-Pour que le fichier SVG soit bien lu par la machine Trotec, voici des conseils de préparation (à effectuer dans Inkscape):
+Pour que le fichier SVG soit bien lu par la machine Trotec, voici des conseils de préparation, à effectuer dans Inkscape.
 
-### Vérifier Fill et Stroke.
+### Vérifier Fill et Stroke
 
 - Les éléments pour découpe: doivent avoir un **contour** (*Stroke*) de couleur rouge, et pas de remplissage (*Fill*).
 - Les éléments à graver: doivent avoir du remplissage (*Fill*), mais pas de contour (*Stroke*). 

@@ -18,15 +18,15 @@ Découpe laser: épaisseur maximum 3mm
 Gravure laser: épaisseur 6 à 10 mm  
 Format planche maximum: 80x60 cm
 
-Instructions: [voir PDF](https://eracom.ch/extranet/wp/wp-content/documents/CentreProduction/05-CProd-Fiche_Technique-DCE_Decoupe_Laser-01_2026.pdf).
+Instructions précises: voir PDF sur Extranet.
 
 **Couleurs à utiliser:**
 
 Lors de la réalisation du fichier : utiliser les 3 couleurs existantes dans le nuancier original d’Adobe Illustrator soit :
 
-- **Coupe** -> **Noir**
-- **Rainage demi-corps** -> <span style="color:red">Rouge</span> CMJN
-- **Gravure en surface** -> <span style="color:#f0f">Magenta</span> CMJN
+- **Coupe** -> <b style="color:black">Noir</b>
+- **Rainage demi-corps** -> <b style="color:red">Rouge</b> CMJN
+- **Gravure en surface** -> <b style="color:#f0f">Magenta</b> CMJN
 
 L’épaisseur donnée au contour doit être de : 0,01 mm
 
